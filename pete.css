@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Pete';
+  src: url('http://pete.neisen.xyz/Pete-Regular.ttf');
+}
+
+body {
+  font-family: 'Pete';
+}
+
