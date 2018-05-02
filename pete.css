@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Pete';
-  src: url('http://pete.neisen.xyz/Pete-Regular.ttf');
+  src: url('https://pete.neisen.xyz/Pete-Regular.ttf');
 }
 
-body {
+#peteFont {
   font-family: 'Pete';
-  font-size: 24px;
+  font-size: 18pt;
 }
 
